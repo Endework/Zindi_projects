@@ -6,4 +6,5 @@ This repository is dedicated to data science projects completed on Zindi. Each p
 
 1. [Insurance Prediction](https://github.com/Endework/Zindi_projects/tree/Insurance): This branch contains the work for the Insurance Prediction project. It includes data preprocessing, feature selection, model training and evaluation, and test data preprocessing and prediction.
 
-2. [Image Classification](https://github.com/Endework/Zindi_projects/tree/Image_classification): This branch contains the work for the Image Classification project. 
+2. [Image Classification](https://github.com/Endework/Zindi_projects/tree/Image_classification): This branch contains the work for the Image Classification project.
+3. [Smart Money Management](https://github.com/Endework/Zindi_projects/tree/smartmoney): This branch classifies expenses in to 13 classes
